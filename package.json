@@ -2,7 +2,12 @@
   "name": "raycast-vehicle",
   "version": "1.0.0",
   "description": "Using use-cannon / cannon-es to implement a raycast vehicle.",
-  "keywords": ["physics", "cannon-es", "vehicle", "use-cannon"],
+  "keywords": [
+    "physics",
+    "cannon-es",
+    "vehicle",
+    "use-cannon"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "@react-three/cannon": "3.1.2",
@@ -20,5 +25,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
